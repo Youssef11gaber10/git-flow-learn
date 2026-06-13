@@ -1,0 +1,3 @@
+i developed my feaure 3 into feature branch feauture/third-feature and will merge it into develop 
+this is part of 3 major feature will be in release 1.0
+this finish major feature in release 1.0 now will merge this develop branch with release branch then merge this release branch with main and tag this release v 1.0
