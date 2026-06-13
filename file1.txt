@@ -2,4 +2,6 @@ i developed my feaure 1 into feature branch feauture/first-feature and will merg
 this is part of 3 major feature will be in release 1.0
 test this every thing  is correct in release/v1.0 branch from QA team 
 
-this release v1.0 have bug in production so make hotfix branch to fix this bug and will be v1.0.1
+this release v1.0 have bug in production so make hotfix branch to fix this bug and will be v1.0.1 and merge whole branch into develop
+
+this release v1.0.1 have bug in production so make hotfix branch to fix this bug and will be v1.0.2 and merge cherry pick last commit into develop
