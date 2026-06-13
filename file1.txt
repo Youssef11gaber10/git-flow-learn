@@ -1,0 +1,2 @@
+i developed my feaure 1 into feature branch feauture/first-feature and will merge it into develop 
+this is part of 3 major feature will be in release 1.0
