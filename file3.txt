@@ -2,3 +2,5 @@ i developed my feaure 3 into feature branch feauture/third-feature and will merg
 this is part of 3 major feature will be in release 1.0
 this finish major feature in release 1.0 now will merge this develop branch with release branch then merge this release branch with main and tag this release v 1.0
 test this and was have issue  in release/v1.0 branch from QA team and we fix it now need to sync with develop branch 
+
+this release v1.0 have bug in production so make hotfix branch to fix this bug and will be v1.0.1
