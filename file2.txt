@@ -1,3 +1,5 @@
 i developed my feaure 2 into feature branch feauture/second-feature and will merge it into develop 
 this is part of 3 major feature will be in release 1.0
 test this every thing  is correct in release/v1.0 branch from QA team 
+
+this release v1.0 have bug in production so make hotfix branch to fix this bug and will be v1.0.1
